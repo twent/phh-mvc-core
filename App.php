@@ -8,6 +8,8 @@ class App
     const EVENT_BEFORE_REQUEST = 'beforeRequest';
     const EVENT_AFTER_REQUEST = 'afterRequest';
 
+    protected array $eventListeners = [];
+
     public static App $app;
     public static string $ROOT_DIR;
     public string $userClass;
