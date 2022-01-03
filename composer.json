@@ -1,0 +1,19 @@
+{
+  "name": "twent/php-mvc-core",
+  "authors": [
+    {
+      "name": "Zura Sekhniashvili",
+      "email": "zurasekhniashvili@gmail.com"
+    },
+    {
+      "name": "Yaroslav Kalegin",
+      "email": "i@twent.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "twent\\php-mvc-core\\": "."
+    }
+  }
+}
