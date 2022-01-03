@@ -13,7 +13,7 @@
   "require": {},
   "autoload": {
     "psr-4": {
-      "twent\\php-mvc-core\\": "."
+      "twent\\mvccore\\": "."
     }
   }
 }
